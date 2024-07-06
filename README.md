@@ -36,6 +36,7 @@ Plotted s vs. Silhouette coefficient.
 
 
 Results
+
 Each clustering algorithm's performance is visualized by plotting the Silhouette coefficient against the number of clusters. These plots provide insights into the clustering quality and help determine the optimal number of clusters.
 
 
